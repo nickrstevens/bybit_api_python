@@ -1,0 +1,5 @@
+{
+    "api_key": "your key",
+    "secret": "your secret",
+    "leverage": 10
+  }
